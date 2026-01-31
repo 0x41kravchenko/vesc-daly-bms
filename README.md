@@ -25,3 +25,6 @@ Daly Smart BMS (BLE UART) integration with VESC (using VESC Express)
 
 ## Connections
 ![Connection schematics](connection_sketchmatic.png?raw=true "Connections")
+
+## VESC Tool
+![VESC Tool BMS section](vesc_tool_screenshot.png?raw=true "VESC Tool BMS section")
